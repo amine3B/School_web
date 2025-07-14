@@ -1,6 +1,7 @@
 # 🌟 Chrono School - Site Web Officiel
 
 Bienvenue sur le **site officiel de Chrono School**, un espace numérique moderne et convivial conçu pour informer, rassurer et accompagner les familles dans la découverte de l’école.
+
 **view web site:** https://www.chronoschool.com
 Ce site s’adresse principalement aux **parents d’enfants en maternelle et en primaire**, en mettant en valeur la philosophie pédagogique, les services offerts, ainsi que la vie scolaire.
 
