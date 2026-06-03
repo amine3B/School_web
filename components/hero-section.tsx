@@ -35,13 +35,14 @@ export default function HeroSection() {
           </div>
           <div className="relative z-10">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
-              <div className="aspect-[4/3]">
+              <div className="relative w-full h-[600px] rounded-3xl overflow-hidden">
                 <Image
-                  src="image/Etablicement.jpeg"
-                  alt=" l'école"
+                  src="/image/Etabl.jpeg"
+                  alt="Bâtiment Chrono School"
                   fill
                   className="object-cover"
                   priority
+                  quality={85}
                 />
               </div>
               <div className="absolute inset-0 bg-gradient-to-tr from-[#0A3B5B]/30 to-transparent mix-blend-multiply" />
