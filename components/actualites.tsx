@@ -7,23 +7,23 @@ import { CalendarDays, ArrowRight } from "lucide-react"
 export default function Actualites() {
   const actualites = [
     {
-      title: "Journée portes ouvertes",
-      date: "15 juin 2024",
+      title: "Sortie pour le printemps",
+      date: "24 Février 2026",
       description:
-        "Venez découvrir notre école et rencontrer l'équipe pédagogique lors de notre journée portes ouvertes.",
-      image: "/placeholder.svg?height=400&width=600",
+        "Une belle journée en pleine nature pour découvrir le printemps, partager des moments de joie et créer de merveilleux souvenirs.",
+      image: "/image/Sortie-printemps.jpeg?height=400&width=600",
     },
     {
-      title: "Spectacle de fin d'année",
-      date: "28 juin 2024",
-      description: "Les élèves présenteront leur spectacle de fin d'année sur le thème des contes du monde.",
-      image: "/placeholder.svg?height=400&width=600",
+      title: "La Fête des Mères",
+      date: "14 Mai 2026",
+      description: "Un moment rempli d’émotion et de gratitude pour célébrer toutes les mamans avec amour et reconnaissance.",
+      image: "/image/Fete-des-Meres.jpeg?height=400&width=600",
     },
     {
-      title: "Atelier parents-enfants",
-      date: "10 juillet 2024",
-      description: "Participez à notre atelier créatif parents-enfants autour des arts plastiques.",
-      image: "/placeholder.svg?height=400&width=600",
+      title: "Sortie du crazy park",
+      date: "8 Avril 2026",
+      description: "Une journée de détente, de jeux et d’aventures où les élèves se sont amusés dans une ambiance conviviale et festive.",
+      image: "/image/Sortie-crazy-park.jpeg?height=400&width=600",
     },
   ]
 
