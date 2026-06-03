@@ -37,7 +37,7 @@ export default function HeroSection() {
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <div className="aspect-[4/3]">
                 <Image
-                  src="image/Etablicement.JPEG"
+                  src="image/Etablicement.jpeq"
                   alt="Enfants à l'école"
                   fill
                   className="object-cover"
